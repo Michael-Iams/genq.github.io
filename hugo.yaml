@@ -151,9 +151,10 @@ params:
     # If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
     # add "hide_feedback: true" to the page's front matter.
 
+services:
+  googleAnalytics:
+    ID: G-68PL8T6WEN
 
-    [services.googleAnalytics]
-    id = "G-68PL8T6WEN" 
 
     feedback:
       enable: true

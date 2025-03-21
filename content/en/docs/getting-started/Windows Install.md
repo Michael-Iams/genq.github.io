@@ -1,13 +1,13 @@
 ---
 title: GenQuery Windows Install
-date: 2025-03-20
+date: 2025-03-21
 description: >
   Installation instructions: [Examples]
 tags: [test, sample, docs]
 ---
 
 > [!NOTE] This is tested on Windows 11, version 10.0.26100.0 using Nushell
-> version 0.102. Last test was on 13-Feb-2025.
+> version 0.103. Last test was on 22-Mar-2025.
 
 # Overview of Windows Installation Approach
 

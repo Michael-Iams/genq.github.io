@@ -1,13 +1,13 @@
 ---
 title: GenQuery MacOS Install
-date: 2025-03-20
+date: 2025-03-21
 description: >
   Installation instructions: [Examples]
 tags: [test, sample, docs]
 ---
 
 > [!NOTE] This is tested on MacOS Sequoia, version 15.3.1 using Nushell version
-> 0.102. Last test was on 18-Feb-2025.
+> 0.103. Last test was on 22-Mar-2025.
 
 # Overview of MacOS Installation Approach
 

@@ -1,6 +1,8 @@
 baseURL: https://genq.github.io
 title: GenQuery
 
+
+theme: docsy
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
 # Language settings
@@ -127,6 +129,24 @@ params:
 
   # Enable syntax highlighting and copy buttons on code blocks with Prism
   prism_syntax_highlighting: true
+
+params:
+  prism:
+    languages:
+      - markup
+      - css
+      - clike
+      - javascript
+      - powershell
+      - bash
+    plugins:
+      - normalize-whitespace
+      - toolbar
+      - copy-to-clipboard
+
+params:
+  docsy:
+    enableClipboard: true
 
   copyright:
     authors:
